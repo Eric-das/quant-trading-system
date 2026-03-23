@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+config/*.properties
+config/*.pem
+
+# Output & logs
+logs/
+output/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
